@@ -22,7 +22,7 @@ A modern Android application that displays Pokemon information using the [PokeAP
 | ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Details](screenshots/details.png) |
 
 ## Demo
-![Demo Video](screenshots/demo.webm)
+![Demo Video](https://drive.google.com/file/d/1W0LWyZhBrB-bnYsAOXz5TuuAIKPU1ORq/view?usp=sharing)
 
 ## Tech Stack
 
