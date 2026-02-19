@@ -21,9 +21,6 @@ A modern Android application that displays Pokemon information using the [PokeAP
 |-------------|-------------|----------------|
 | ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Details](screenshots/details.png) |
 
-## Demo
-![Demo Video](https://github.com/primitive-coder/pokemon-app/blob/main/pokemon-demo.webm)
-
 ## Tech Stack
 
 ### Architecture
